@@ -115,7 +115,8 @@ https://mcazorla.gitbooks.io/programacion-en-el-servidor/content/patrones_de_dis
 
 <a id='anexos'></a>
 ## Anexos.
-[instalar Xampp](https://github.com/miRepositorioGit/Biblioteca/blob/main/anexos/instalacionConfiguracionXampp_V120.pdf "Guía para instalar Xampp.")
 
+Guía para instalar un servidor de aplicaciones Http en puerto localhost.
+[instalar Xampp](https://github.com/miRepositorioGit/Biblioteca/blob/main/anexos/instalacionConfiguracionXampp_V120.pdf "Guía para instalar Xampp.")
 
 <a href="#contents">Ir a Contenido.</a>
