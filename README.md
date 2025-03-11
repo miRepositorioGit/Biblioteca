@@ -1,7 +1,7 @@
-# Ejemplo MVC
+# Biblioteca.  Registros con campos de libros. 
 
 ##  
-Muestra como un scriptcon directivas de configuración y código en php direcciona el flujo de ejecución de una petición URL hasta presentar un contenido en una página principal.
+Muestra como un script con directivas de configuración y código en php direcciona el flujo de ejecución de una petición URL hasta presentar un contenido en una página principal.
 
 <a id='contents'></a>
 ## Contenido.
@@ -9,8 +9,9 @@ Muestra como un scriptcon directivas de configuración y código en php direccio
 <li><a href="#intro">Introdución.</a></li>
 <li><a href="#wrangling">Controlador principal.</a></li>
 <li><a href="#eda">Exploratory Data Analysis</a></li>
-<li><a href="#conclusions">Conclusions</a></li>
-<li><a href="#reference">Referencias</a></li>
+<li><a href="#conclusions">Conclusiones</a></li>
+<li><a href="#reference">Referencias.</a></li>
+<li><a href="#anexos">Anexos.</a></li>
 </ul>
   
 <a id='intro'></a>
@@ -107,8 +108,14 @@ https://datosgobar.github.io/portal-andino/markdown-guide/
 (Alvarez et al, 2022) Alvarez, O. D. G., Larrea, N. P. L., & Valencia, M. V. R. (2022).
 Análisis comparativo de Patrones de Diseño de Software. Polo del Conocimiento: Revista científico-profesional, 7(7), 2146-2165. Recuperado: viernes 24 enero 2025, de https://dialnet.unirioja.es/descarga/articulo/9042927.pdf 
 
-
-
 https://mcazorla.gitbooks.io/programacion-en-el-servidor/content/patrones_de_diseno_en_php_ii__patron_mvc/ejemplo_de_como_crear_un_sistema_mvc_paso_a_paso_1.html
+
+<a href="#contents">Ir a Contenido.</a>
+
+
+<a id='anexos'></a>
+## Anexos.
+[instalar Xampp](https://github.com/miRepositorioGit/Biblioteca/blob/main/anexos/instalacionConfiguracionXampp_V120.pdf "Guía para instalar Xampp.")
+
 
 <a href="#contents">Ir a Contenido.</a>
